@@ -1,0 +1,74 @@
+.toolsContainer {
+    position: fixed;
+    left: 0px;
+    top: 20%;
+    display: block;
+    width: 222px;
+}
+
+.place {
+    display: flex;
+    /* border: 5px solid black; */
+    /* padding: 5px 5px 5px 0px; */
+    /* background-color: black; */
+    /* border: 0px solid cyan; */
+}
+
+.buttonStyle {
+    width: 95px;
+    padding: 10px 0px;
+    background-color: white;
+    text-align: center;
+    margin: 2px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.buttonStyle:hover {
+    background-color: chartreuse;
+}
+
+.chosenButton {
+    background-color: cyan;
+}
+
+
+.pixelStats {
+    color: white;
+    padding: 10px 15px;
+    background-color: black;
+    border-top-right-radius: 10px;
+    margin-bottom: 4px;
+}
+
+.username {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.pixelsLeft {
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.hideTools {
+    color: white;
+    /* border-radius: 100%; */
+    background-color: black;
+    padding: 20px 14px;
+    margin-top: 0px;
+}
+
+.toolTips {
+    color: white;
+    margin-top: 5px;
+    padding: 30px 10px;
+    background-color: black;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+
+
+

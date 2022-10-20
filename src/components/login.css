@@ -1,0 +1,31 @@
+.forms {
+    width: 300px;
+    padding: 25px 25px 40px;
+    color: white;
+    background-color: #142536;
+    border-radius: 10px;
+    margin: auto auto;
+}
+
+.formTitle {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.button {
+    width: 100%;
+    height: 32px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.formLabels {
+    font-size: 18px;
+}
+
+.inputBoxes {
+    height: 20px;
+    width: 97%;
+    margin: 8px 0px 12px;
+}

@@ -1,0 +1,24 @@
+.gridView {
+  display: grid;
+  grid-template-columns: repeat(160, 8px);
+  /* grid-template-rows: repeat(500, 8px); */
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  width: fit-content;
+  height: fit-content;
+  border: 8px solid black;
+  padding: 5px;
+  margin: auto auto;
+}
+
+body {
+  background-color: #475869;
+}
+
+.spaceTop {
+  height: 50px;
+}
+.spaceBottom {
+  height: 500px;
+}
+

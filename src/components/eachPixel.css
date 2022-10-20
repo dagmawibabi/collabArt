@@ -1,0 +1,11 @@
+.pixelInit {
+    height: 8px;
+    width: 8px;
+    background-color: whitesmoke;
+}
+
+.drawn {
+    height: 8px;
+    width: 8px;
+    background-color: blue;
+}
